@@ -1,6 +1,6 @@
 # DarkFate
 
-PUBLIC & FOLLOWERS IDS CLONING TOOL OFFICIAL MADE BY ABDULLAH
+PUBLIC & FOLLOWERS IDS CLONING TOOL OFFICIAL MADE BY __--***
 
 pkg update
 
@@ -22,5 +22,5 @@ https://github.com/Dedsecbigra123/Janu
 
 cd Janu
 
-python elite.py
+python sbf.py
 
